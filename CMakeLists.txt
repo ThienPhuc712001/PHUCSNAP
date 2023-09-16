@@ -9,4 +9,5 @@ add_executable(PHUCSNAP main.c
         DEMO2/demo2.c
         DEMO2/demo2.c
         DEMO3/DEMO3.c
+        QWER/QWER.c
 )

@@ -73,6 +73,12 @@ build CMakeFiles/PHUCSNAP.dir/DEMO3/DEMO3.c.obj: C_COMPILER__PHUCSNAP_unscanned_
   OBJECT_DIR = CMakeFiles\PHUCSNAP.dir
   OBJECT_FILE_DIR = CMakeFiles\PHUCSNAP.dir\DEMO3
 
+build CMakeFiles/PHUCSNAP.dir/QWER/QWER.c.obj: C_COMPILER__PHUCSNAP_unscanned_Debug C$:/Users/Administrator/Documents/GitHub/PHUCSNAP/QWER/QWER.c || cmake_object_order_depends_target_PHUCSNAP
+  DEP_FILE = CMakeFiles\PHUCSNAP.dir\QWER\QWER.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\PHUCSNAP.dir
+  OBJECT_FILE_DIR = CMakeFiles\PHUCSNAP.dir\QWER
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target PHUCSNAP
@@ -81,7 +87,7 @@ build CMakeFiles/PHUCSNAP.dir/DEMO3/DEMO3.c.obj: C_COMPILER__PHUCSNAP_unscanned_
 #############################################
 # Link the executable PHUCSNAP.exe
 
-build PHUCSNAP.exe: C_EXECUTABLE_LINKER__PHUCSNAP_Debug CMakeFiles/PHUCSNAP.dir/main.c.obj CMakeFiles/PHUCSNAP.dir/DEMO1/vd1.c.obj CMakeFiles/PHUCSNAP.dir/DEMO2/demo2.c.obj CMakeFiles/PHUCSNAP.dir/DEMO3/DEMO3.c.obj
+build PHUCSNAP.exe: C_EXECUTABLE_LINKER__PHUCSNAP_Debug CMakeFiles/PHUCSNAP.dir/main.c.obj CMakeFiles/PHUCSNAP.dir/DEMO1/vd1.c.obj CMakeFiles/PHUCSNAP.dir/DEMO2/demo2.c.obj CMakeFiles/PHUCSNAP.dir/DEMO3/DEMO3.c.obj CMakeFiles/PHUCSNAP.dir/QWER/QWER.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\PHUCSNAP.dir
