@@ -1,0 +1,3 @@
+C:/Users/nguye/Documents/GitHub/PHUCSNAP/cmake-build-debug/CMakeFiles/PHUCSNAP.dir
+C:/Users/nguye/Documents/GitHub/PHUCSNAP/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nguye/Documents/GitHub/PHUCSNAP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
