@@ -199,6 +199,18 @@ build CMakeFiles/PHUCSNAP.dir/Bai_COFFEE/Bai_COFFEE.c.obj: C_COMPILER__PHUCSNAP_
   OBJECT_DIR = CMakeFiles\PHUCSNAP.dir
   OBJECT_FILE_DIR = CMakeFiles\PHUCSNAP.dir\Bai_COFFEE
 
+build CMakeFiles/PHUCSNAP.dir/Bài_Thi/Bài_1.c.obj: C_COMPILER__PHUCSNAP_unscanned_Debug C$:/Users/Administrator/Documents/GitHub/PHUCSNAP/Bài$ Thi/Bài$ 1.c || cmake_object_order_depends_target_PHUCSNAP
+  DEP_FILE = CMakeFiles\PHUCSNAP.dir\Bài_Thi\Bài_1.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\PHUCSNAP.dir
+  OBJECT_FILE_DIR = CMakeFiles\PHUCSNAP.dir\Bài_Thi
+
+build CMakeFiles/PHUCSNAP.dir/Bài_Thi/Bài_2.c.obj: C_COMPILER__PHUCSNAP_unscanned_Debug C$:/Users/Administrator/Documents/GitHub/PHUCSNAP/Bài$ Thi/Bài$ 2.c || cmake_object_order_depends_target_PHUCSNAP
+  DEP_FILE = CMakeFiles\PHUCSNAP.dir\Bài_Thi\Bài_2.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\PHUCSNAP.dir
+  OBJECT_FILE_DIR = CMakeFiles\PHUCSNAP.dir\Bài_Thi
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target PHUCSNAP
@@ -207,7 +219,7 @@ build CMakeFiles/PHUCSNAP.dir/Bai_COFFEE/Bai_COFFEE.c.obj: C_COMPILER__PHUCSNAP_
 #############################################
 # Link the executable PHUCSNAP.exe
 
-build PHUCSNAP.exe: C_EXECUTABLE_LINKER__PHUCSNAP_Debug CMakeFiles/PHUCSNAP.dir/main.c.obj CMakeFiles/PHUCSNAP.dir/DEMO1/vd1.c.obj CMakeFiles/PHUCSNAP.dir/DEMO2/demo2.c.obj CMakeFiles/PHUCSNAP.dir/DEMO3/DEMO3.c.obj CMakeFiles/PHUCSNAP.dir/QWER/QWER.c.obj CMakeFiles/PHUCSNAP.dir/Bai`7/vd1/vd1.c.obj CMakeFiles/PHUCSNAP.dir/Bai`7/vd2/vd2.c.obj CMakeFiles/PHUCSNAP.dir/Bai`7/vd3/vd3.c.obj CMakeFiles/PHUCSNAP.dir/Bai`7/vd4/vd4.c.obj CMakeFiles/PHUCSNAP.dir/VD_bai`7/VD_bai`_7.c.obj CMakeFiles/PHUCSNAP.dir/Bai`7/vd5/vd5.c.obj CMakeFiles/PHUCSNAP.dir/Bai`7/vd6/vd7.c.obj CMakeFiles/PHUCSNAP.dir/Bai`7/vd8/vd8.c.obj CMakeFiles/PHUCSNAP.dir/Bai`7/vd9/vd9.c.obj CMakeFiles/PHUCSNAP.dir/Bai`7/vd10/vd10.c.obj CMakeFiles/PHUCSNAP.dir/Bai`_8/vd1/vd1.c.obj CMakeFiles/PHUCSNAP.dir/Bai`_8/vd2/vd2.c.obj CMakeFiles/PHUCSNAP.dir/Bai`_8/vd3/vd3.c.obj CMakeFiles/PHUCSNAP.dir/Bai`_8/vd4/vd4.c.obj CMakeFiles/PHUCSNAP.dir/Bai`_8/vd5/vd5.c.obj CMakeFiles/PHUCSNAP.dir/Bai`_8/vd6/vd6.c.obj CMakeFiles/PHUCSNAP.dir/Bai`_8/vd7/vd7.c.obj CMakeFiles/PHUCSNAP.dir/Bai`_8/BT_tu_lam`/BT1/BT1.c.obj CMakeFiles/PHUCSNAP.dir/Bai_Diem/bai_diem.c.obj CMakeFiles/PHUCSNAP.dir/Bai_COFFEE/Bai_COFFEE.c.obj
+build PHUCSNAP.exe: C_EXECUTABLE_LINKER__PHUCSNAP_Debug CMakeFiles/PHUCSNAP.dir/main.c.obj CMakeFiles/PHUCSNAP.dir/DEMO1/vd1.c.obj CMakeFiles/PHUCSNAP.dir/DEMO2/demo2.c.obj CMakeFiles/PHUCSNAP.dir/DEMO3/DEMO3.c.obj CMakeFiles/PHUCSNAP.dir/QWER/QWER.c.obj CMakeFiles/PHUCSNAP.dir/Bai`7/vd1/vd1.c.obj CMakeFiles/PHUCSNAP.dir/Bai`7/vd2/vd2.c.obj CMakeFiles/PHUCSNAP.dir/Bai`7/vd3/vd3.c.obj CMakeFiles/PHUCSNAP.dir/Bai`7/vd4/vd4.c.obj CMakeFiles/PHUCSNAP.dir/VD_bai`7/VD_bai`_7.c.obj CMakeFiles/PHUCSNAP.dir/Bai`7/vd5/vd5.c.obj CMakeFiles/PHUCSNAP.dir/Bai`7/vd6/vd7.c.obj CMakeFiles/PHUCSNAP.dir/Bai`7/vd8/vd8.c.obj CMakeFiles/PHUCSNAP.dir/Bai`7/vd9/vd9.c.obj CMakeFiles/PHUCSNAP.dir/Bai`7/vd10/vd10.c.obj CMakeFiles/PHUCSNAP.dir/Bai`_8/vd1/vd1.c.obj CMakeFiles/PHUCSNAP.dir/Bai`_8/vd2/vd2.c.obj CMakeFiles/PHUCSNAP.dir/Bai`_8/vd3/vd3.c.obj CMakeFiles/PHUCSNAP.dir/Bai`_8/vd4/vd4.c.obj CMakeFiles/PHUCSNAP.dir/Bai`_8/vd5/vd5.c.obj CMakeFiles/PHUCSNAP.dir/Bai`_8/vd6/vd6.c.obj CMakeFiles/PHUCSNAP.dir/Bai`_8/vd7/vd7.c.obj CMakeFiles/PHUCSNAP.dir/Bai`_8/BT_tu_lam`/BT1/BT1.c.obj CMakeFiles/PHUCSNAP.dir/Bai_Diem/bai_diem.c.obj CMakeFiles/PHUCSNAP.dir/Bai_COFFEE/Bai_COFFEE.c.obj CMakeFiles/PHUCSNAP.dir/Bài_Thi/Bài_1.c.obj CMakeFiles/PHUCSNAP.dir/Bài_Thi/Bài_2.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\PHUCSNAP.dir

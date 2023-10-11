@@ -20,12 +20,14 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc8770fd-cc4c-4d97-8d90-2e34bb9d6af8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Bai COFFEE/Bai COFFEE.c" afterDir="false" />
+    <list default="true" id="09e02e9b-3254-4b44-a627-672d5b32910c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Bài Thi/Bài 1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài Thi/Bài 2.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-355057c4d4af0333c4fa.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2023-09-27T13-45-30-0492.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-PHUCSNAP-Debug-0d395744b3fee5acfae7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-82ce531edcff3d67842f.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2023-09-27T13-50-29-0584.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-PHUCSNAP-Debug-c85ff653bf75bb5582b1.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
@@ -53,7 +55,7 @@
   "customColor": "",
   "associatedIndex": 6
 }]]></component>
-  <component name="ProjectId" id="2VyxkXi4Ku0fc5X8vVWzNGPerAv" />
+  <component name="ProjectId" id="2WcFNNYhAamwLzs9yS2FGgigd9B" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -89,12 +91,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="cc8770fd-cc4c-4d97-8d90-2e34bb9d6af8" name="Changes" comment="" />
-      <created>1695822264199</created>
+      <changelist id="09e02e9b-3254-4b44-a627-672d5b32910c" name="Changes" comment="" />
+      <created>1697023921158</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1695822264199</updated>
-      <workItem from="1695822265529" duration="381000" />
+      <updated>1697023921158</updated>
+      <workItem from="1697023922949" duration="1032000" />
     </task>
     <servers />
   </component>

@@ -30,4 +30,6 @@ add_executable(PHUCSNAP main.c
         "Bai` 8/BT tu lam`/BT1/BT1.c"
         "Bai Diem/bai diem.c"
         "Bai COFFEE/Bai COFFEE.c"
+        "Bài Thi/Bài 1.c"
+        "Bài Thi/Bài 2.c"
 )
